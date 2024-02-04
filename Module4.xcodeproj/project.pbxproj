@@ -16,6 +16,7 @@
 		DA40A8522B6F2EBC005D9F46 /* Module4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA40A8512B6F2EBC005D9F46 /* Module4Tests.swift */; };
 		DA40A85C2B6F2EBC005D9F46 /* Module4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA40A85B2B6F2EBC005D9F46 /* Module4UITests.swift */; };
 		DA40A85E2B6F2EBC005D9F46 /* Module4UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA40A85D2B6F2EBC005D9F46 /* Module4UITestsLaunchTests.swift */; };
+		DA40A86D2B6F3D4C005D9F46 /* Music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = DA40A86C2B6F3D4B005D9F46 /* Music.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DA40A8572B6F2EBC005D9F46 /* Module4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Module4UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA40A85B2B6F2EBC005D9F46 /* Module4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Module4UITests.swift; sourceTree = "<group>"; };
 		DA40A85D2B6F2EBC005D9F46 /* Module4UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Module4UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DA40A86C2B6F3D4B005D9F46 /* Music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Music.mp3; path = ../../../Downloads/Music.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		DA40A8392B6F2EBB005D9F46 /* Module4 */ = {
 			isa = PBXGroup;
 			children = (
+				DA40A86C2B6F3D4B005D9F46 /* Music.mp3 */,
 				DA40A83A2B6F2EBB005D9F46 /* AppDelegate.swift */,
 				DA40A83C2B6F2EBB005D9F46 /* SceneDelegate.swift */,
 				DA40A83E2B6F2EBB005D9F46 /* ViewController.swift */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA40A86D2B6F3D4C005D9F46 /* Music.mp3 in Resources */,
 				DA40A8472B6F2EBC005D9F46 /* LaunchScreen.storyboard in Resources */,
 				DA40A8442B6F2EBC005D9F46 /* Assets.xcassets in Resources */,
 				DA40A8422B6F2EBB005D9F46 /* Main.storyboard in Resources */,
